@@ -1,6 +1,6 @@
 public class Homework1103 {
 	public static void main(String[] args) {
-		int [][] myArray = {{ 4, 7, 6}, {34, 6, 4, 3, 2}, {1, 0, 9878}, {23, 34, 1, 2, 4}, {3, 4, 2, 1}, {34, 21}};
+		int[][] myArray = {{4, 7, 6}, {34, 6, 4, 3, 2}, {1, 0, 9878}, {23, 34, 1, 2, 4}, {3, 4, 2, 1}, {34, 21}};
 		returnSumOfElements(myArray);
 	}
 
